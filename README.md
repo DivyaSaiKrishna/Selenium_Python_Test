@@ -19,4 +19,6 @@ Add this test to project
 
 pytest -v -s --html=Final_report.html --self-contained-html Browser.py 
 
-find html report in VENv --> open in respective browseer
+find html report in VENv --> open in respective browser
+
+
